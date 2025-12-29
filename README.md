@@ -37,7 +37,7 @@ I’m **Akshay More**, a **Full Stack Developer** and **Design Engineer** based 
 
 - 💼 LinkedIn: [Akshay More](https://www.linkedin.com/in/akshaymore1/)
 - 🌐 Portfolio: [akshaymore.com](https://akshaymore.com)
-- 💻 GitHub: [@theakshaymore](https://github.com/theakshaymore)
+- 💻 Twitter: [@AkshhayMore](https://x.com/AkshhayMore)
 
 ---
 
